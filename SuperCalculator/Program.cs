@@ -52,3 +52,6 @@ switch (Action)
         break;
 
 }
+
+double skai = Number1 % Number2;
+Console.WriteLine($"{skai}");
